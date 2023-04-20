@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 10,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#565A6DFF",
+        "font" : "System",
+        "color" : "#565A6DFF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#965026FF",
+        "font" : "System",
+        "color" : "#565A6DFF"
+      },
+      "backgroundSelected" : "#9699A27F",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#965026FF",
+        "font" : "System",
+        "color" : "#333B58FF"
+      },
+      "iconPaddingHorizontal" : 16,
+      "roundness" : 7,
+      "paddingVertical" : 5,
+      "iconSize" : 32
+    },
+    "search" : {
+      "backgroundSelected" : "#9699A2FF",
+      "paddingHorizontal" : 16,
+      "spacing" : 6,
+      "text" : {
+        "size" : 22,
+        "colorSelected" : "#D4D6DBFF",
+        "font" : "System",
+        "color" : "#D4D6DBFF"
+      },
+      "background" : "#9699A2FF",
+      "roundness" : 6,
+      "paddingVertical" : 9
+    },
+    "window" : {
+      "color" : "#20233300",
+      "paddingHorizontal" : 0,
+      "width" : 587,
+      "borderPadding" : 7,
+      "borderColor" : "#D4D6DBFF",
+      "blur" : 0,
+      "roundness" : 6,
+      "paddingVertical" : 0
+    },
+    "credit" : "rimpsh",
+    "separator" : {
+      "color" : "#B2B2B2FF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#965026FF",
+      "thickness" : 2
+    },
+    "name" : "Minimal Tokyo Night (Light)"
+  }
+}

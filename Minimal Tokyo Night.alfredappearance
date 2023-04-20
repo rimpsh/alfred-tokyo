@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 10,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#CFC8C2FF",
+        "font" : "System",
+        "color" : "#CFC8C2FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#FE9D64FF",
+        "font" : "System",
+        "color" : "#444B70FF"
+      },
+      "backgroundSelected" : "#545D877F",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FE9D64FF",
+        "font" : "System",
+        "color" : "#565F89FF"
+      },
+      "iconPaddingHorizontal" : 16,
+      "roundness" : 6,
+      "paddingVertical" : 5,
+      "iconSize" : 32
+    },
+    "search" : {
+      "backgroundSelected" : "#23273AFF",
+      "paddingHorizontal" : 16,
+      "spacing" : 6,
+      "text" : {
+        "size" : 22,
+        "colorSelected" : "#CFC8C1FF",
+        "font" : "System",
+        "color" : "#CFC8C2FF"
+      },
+      "background" : "#23273AFF",
+      "roundness" : 6,
+      "paddingVertical" : 9
+    },
+    "window" : {
+      "color" : "#20233300",
+      "paddingHorizontal" : 0,
+      "width" : 587,
+      "borderPadding" : 7,
+      "borderColor" : "#191B25FF",
+      "blur" : 0,
+      "roundness" : 6,
+      "paddingVertical" : 0
+    },
+    "credit" : "rimpsh",
+    "separator" : {
+      "color" : "#B2B2B2FF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FE9D64FF",
+      "thickness" : 2
+    },
+    "name" : "Minimal Tokyo Night"
+  }
+}
